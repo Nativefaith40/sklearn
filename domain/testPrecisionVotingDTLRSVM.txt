@@ -1,0 +1,19 @@
+from:377450
+step1: 24.5450000763
+step2:1.85699987411
+step3:0.343000173569
+step4:343.472999811
+total message: 20000
+predict rubbish: 1851
+predict normal: 18149
+actual rubbish: 1937
+actual normal:  18063
+predict normal and actual normal: 18006
+predict rubbish and actual normal: 57
+predict normal and actual rubbish: 143
+predict rubbish and actual rubbish: 1794
+F rubbish: 0.95414486637
+F normal: 0.993774038006
+F total: 0.966033617861
+step5:0.0250000953674
+use time: 370.243000031
